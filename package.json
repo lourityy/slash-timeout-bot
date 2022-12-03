@@ -15,7 +15,6 @@
     "discord.js": "^14.3.0",
     "moment": "^2.29.4",
     "moment-duration-format": "^2.3.2",
-    "orio.db": "^3.1.2",
     "os": "^0.1.2",
     "request": "^2.88.2"
   },

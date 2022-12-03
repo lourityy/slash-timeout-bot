@@ -8,7 +8,6 @@ const PARTIALS = Object.values(Partials);
 const Discord = require("discord.js")
 // Database
 const louritydb = require("croxydb")
-const louritydb2 = require("orio.db")
 
 
 global.client = client;
